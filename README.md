@@ -33,8 +33,8 @@ To get started with Scaffold-ETH 2, follow the steps below:
 **Step 1**: Clone this repo & install dependencies
 
 ```sh
-git clone https://github.com/quiknode-labs/scaffold-eth
-cd scaffold-eth
+git clone https://github.com/quiknode-labs/scaffold-eth-2
+cd scaffold-eth-2
 yarn install
 ```
 
